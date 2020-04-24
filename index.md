@@ -1,5 +1,3 @@
-The Church Leadership Board
-===========================
+# The Church Leadership Board
 
-Document Repository
--------------------
+## Document Repository
